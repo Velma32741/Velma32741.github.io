@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title>Hasil Web Scrapping 2 </title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <div id="hasil2_json"></div>
+      </body>
+      <script type="text/javascript">
+        $(function () {
+          //mengambil data dari file json
+          $.get("hasil2.json", function (obj) {
+            var str = "<table border=1>";
+            str +=
+              "<tr><td>No</td><td class='tables'>Image<td class='tables'>Rating</td><td class='tables'>Judul</td><td class='tables'>Release</td><td class='tables'>Waktu Scrapping</tr>";
+            $.each(obj, function (n, data) {
+              str += "<td class='tables'>" + data.No + "</td>";
+              str += '<td><img src="' + data.Image + '"></td>';
+              str += "<td class='tables'>" + data.Rating + "</td>";
+              str += "<td class='tables'>" + data.Judul + "</td>";
+              str += "<td class='tables'>" + data.Release + "</td>";
+              str += "<td class='tables'>" + data.Waktu_scrapping + "</td></tr>";
+            });
+            str += "</table>";
+            $("#hasil2_json").html(str);
+          });
+        });
+      </script>
+    </html>
+  </div>
+</body>
+</html>

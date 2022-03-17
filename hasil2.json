@@ -1,0 +1,802 @@
+[
+     {
+          "Rating": "97",
+          "No": "1.",
+          "Judul": "Disco Elysium: The Final Cut",
+          "Release": "March 30, 2021",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/6/e3879329612427aca58cb5b7c7ab9818-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "2.",
+          "Judul": "Half-Life 2",
+          "Release": "November 16, 2004",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/3154ea81c0d3578b829a6640ac5ecfe7-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "3.",
+          "Judul": "Grand Theft Auto V",
+          "Release": "April 13, 2015",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/bab786f634eee57a1c68be2dddf3d1e5-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "4.",
+          "Judul": "The Orange Box",
+          "Release": "October 10, 2007",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/cf1e9a839c0b223409d505c354dfe59b-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "5.",
+          "Judul": "Half-Life",
+          "Release": "November 19, 1998",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/5764f80ddd3e67da3b29eb759e8a4737-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "6.",
+          "Judul": "BioShock",
+          "Release": "August 21, 2007",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/6e40cbab3978d4fe0c1390f8b46f23cc-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "7.",
+          "Judul": "Baldur's Gate II: Shadows of Amn",
+          "Release": "September 24, 2000",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/fee92d54ce517ca92f49122771fd4aa5-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "8.",
+          "Judul": "Elden Ring",
+          "Release": "February 25, 2022",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/0120618b1197a58226bfc36b63b14a02-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "9.",
+          "Judul": "Portal 2",
+          "Release": "April 18, 2011",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/8ebc9aa5758d569f33e543d9fb629545-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "10.",
+          "Judul": "The Elder Scrolls V: Skyrim",
+          "Release": "November 10, 2011",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/5988ee04196a686e107b46174f94a3ae-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "11.",
+          "Judul": "Mass Effect 2",
+          "Release": "January 26, 2010",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/e2a90286a8a5a8d39aede79430f56575-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "12.",
+          "Judul": "Grand Theft Auto: Vice City",
+          "Release": "May 12, 2003",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/a11e316b5dce587c8664323b4fd3230e-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "13.",
+          "Judul": "Sid Meier's Civilization II",
+          "Release": "February 29, 1996",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/a316dd672da65f4bec1495e9078467e7-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "14.",
+          "Judul": "Quake",
+          "Release": "June 22, 1996",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/3/019b99bac78077f18f055b1c4019c0c7-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "15.",
+          "Judul": "BioShock Infinite",
+          "Release": "March 25, 2013",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/d6db22b96a880fa7fb6d577591e181e2-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "16.",
+          "Judul": "The Elder Scrolls IV: Oblivion",
+          "Release": "March 20, 2006",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/eff7141d6f5211ebdc3872217388fc55-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "17.",
+          "Judul": "Grim Fandango",
+          "Release": "October 14, 1998",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/c3ac5d8edcc4d201cb9e92ad8903d9a5-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "18.",
+          "Judul": "Diablo",
+          "Release": "December 31, 1996",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/3d23d53559172dfdb3b3d910f9923547-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "19.",
+          "Judul": "Sid Meier's Civilization IV",
+          "Release": "October 25, 2005",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/caaeaf62fb67e1eac34a4acfbaa54052-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "20.",
+          "Judul": "The Witcher 3: Wild Hunt",
+          "Release": "May 18, 2015",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/562c989431810e6aac45b6164ae0bfca-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "21.",
+          "Judul": "Company of Heroes",
+          "Release": "September 13, 2006",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/8d178665cd9b57f9965453cc1a8fedc7-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "22.",
+          "Judul": "Half-Life: Alyx",
+          "Release": "March 23, 2020",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/559d5752e81e5bd977817d9de26bfe4b-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "23.",
+          "Judul": "Divinity: Original Sin II",
+          "Release": "September 14, 2017",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/e7ec0efeb2d6f01d15c2254a395a3065-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "24.",
+          "Judul": "Unreal Tournament 2004",
+          "Release": "March 16, 2004",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/a6922b55f29ce22382e871976a6920f1-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "25.",
+          "Judul": "Starcraft II: Wings of Liberty",
+          "Release": "July 27, 2010",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/e3c315f435e55f897c4761d4fefc432e-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "26.",
+          "Judul": "Minecraft",
+          "Release": "November 18, 2011",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/0ec49754f864a372073dcc684094385d-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "27.",
+          "Judul": "Red Dead Redemption 2",
+          "Release": "November 5, 2019",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/6/ed4c1829d640cd58b8a6b9a82da58eaf-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "28.",
+          "Judul": "Grand Theft Auto III",
+          "Release": "May 20, 2002",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/b0cddbca8fec88e94ec9269379a0d379-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "29.",
+          "Judul": "Homeworld",
+          "Release": "August 31, 1999",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/a005b637a637d3628b66c5b23e7c2573-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "30.",
+          "Judul": "God of War",
+          "Release": "January 14, 2022",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/d7bc93f705395a7d9cf86e9e4e572607-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "31.",
+          "Judul": "Beat Saber",
+          "Release": "May 21, 2019",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/af1484a5329836a8504ade60838b7eee-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "32.",
+          "Judul": "Hades",
+          "Release": "September 17, 2020",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/66a3bd7342bf5b122b92862a465177ed-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "33.",
+          "Judul": "Star Wars: Knights of the Old Republic",
+          "Release": "November 18, 2003",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/fa5c67e8ea63a4c14cdacc9555accc60-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "34.",
+          "Judul": "World of Warcraft",
+          "Release": "November 23, 2004",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/3/c3383580eb989c3596326f861f063786-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "35.",
+          "Judul": "Grand Theft Auto: San Andreas",
+          "Release": "June 7, 2005",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/e7d44e60edd389e2916aa2bf9e5331bd-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "36.",
+          "Judul": "Call of Duty 4: Modern Warfare",
+          "Release": "November 5, 2007",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/bdbee338493df7d9024ef31a95bdeff9-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "37.",
+          "Judul": "Warcraft III: Reign of Chaos",
+          "Release": "July 3, 2002",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/381270905624fa84865e1fe874eb8eb5-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "38.",
+          "Judul": "The Sims",
+          "Release": "February 4, 2000",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/0/d5141262ae8d42c853a26d370d0398eb-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "39.",
+          "Judul": "Sid Meier's Gettysburg!",
+          "Release": "September 30, 1997",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/36c9df22d3203a49b8d1f56422d701e3-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "40.",
+          "Judul": "World Soccer Winning Eleven 7 International",
+          "Release": "April 9, 2004",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/6/98957a2e03ecc41b18c8054e8e15193a-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "41.",
+          "Judul": "Team Fortress 2",
+          "Release": "October 10, 2007",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/6/43275793dfcefd238b98ee2d88939192-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "42.",
+          "Judul": "System Shock 2",
+          "Release": "August 11, 1999",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/3/41829351f4d06d0cc356218ddbd8f99d-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "43.",
+          "Judul": "Tom Clancy's Splinter Cell: Chaos Theory",
+          "Release": "March 28, 2005",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/b775d7f8b057751ca5cf185373d69095-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "44.",
+          "Judul": "Rome: Total War",
+          "Release": "September 22, 2004",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/ad55d9788ea13dda7e5bb26cc91bebb5-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "45.",
+          "Judul": "Okami HD",
+          "Release": "December 12, 2017",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/83687c09b1a6c87ad1b258d6c91c3a98-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "46.",
+          "Judul": "Undertale",
+          "Release": "September 15, 2015",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/3/abeb761486bf180fe9ed3ab6c6a2d793-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "47.",
+          "Judul": "Thief: The Dark Project",
+          "Release": "November 30, 1998",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/5ad714bbb546e18712d102ff186a860c-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "48.",
+          "Judul": "Age of Empires II: The Age of Kings",
+          "Release": "September 30, 1999",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/53abcfcadb6f434b568c2796266719c1-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "49.",
+          "Judul": "Unreal Tournament (1999)",
+          "Release": "November 30, 1999",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/357f319f140dffaa47e3750dda02411e-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "50.",
+          "Judul": "Sid Meier's Alpha Centauri",
+          "Release": "February 12, 1999",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/a03b34d6914545e009e220641c077282-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "51.",
+          "Judul": "Galactic Civilizations II: Twilight of the Arnor",
+          "Release": "April 30, 2008",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/2237ad0c25e6f081fa3fcbd5260c101b-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "52.",
+          "Judul": "Final Fantasy XIV: Endwalker",
+          "Release": "December 7, 2021",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/95bd63f43928f86ed8872be385e94e82-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "53.",
+          "Judul": "Out of the Park Baseball 17",
+          "Release": "March 22, 2016",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/b238df9640d72ce55102ef2d32cc9ca0-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "54.",
+          "Judul": "The Witcher 3: Wild Hunt - Blood and Wine",
+          "Release": "May 30, 2016",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/5d5a7a9179be279cd4026f1e2e46fea5-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "55.",
+          "Judul": "Tiger Woods PGA Tour 2003",
+          "Release": "November 5, 2002",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/57208b2108584c00b71e2e81f098d962-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "56.",
+          "Judul": "Dishonored",
+          "Release": "October 8, 2012",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/5579c6cdb4efaaab0dc07abaa4bf6644-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "57.",
+          "Judul": "Medal of Honor: Allied Assault",
+          "Release": "January 20, 2002",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/59b0a16eb0c85a314d5dcafc20cd34f7-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "58.",
+          "Judul": "Myth: The Fallen Lords",
+          "Release": "October 31, 1997",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/0/9b2b57cbbfdff713e41d1498f6ae05e0-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "59.",
+          "Judul": "Microsoft Flight Simulator",
+          "Release": "August 18, 2020",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/f41c89f11e6eadc4b934fcd6504a0800-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "60.",
+          "Judul": "World of Warcraft: Wrath of the Lich King",
+          "Release": "November 13, 2008",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/e6f4d1b934f771c4f48823d5d560c051-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "61.",
+          "Judul": "Overwatch",
+          "Release": "May 23, 2016",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/5b4b131363a4dba40e923bb8f788d56e-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "62.",
+          "Judul": "F1 Challenge '99-'02",
+          "Release": "June 24, 2003",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/b87a595e7008b848233fa3ef6cb517b0-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "63.",
+          "Judul": "Baldur's Gate",
+          "Release": "December 21, 1998",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/89a0525888498746e946d4df9faeb383-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "64.",
+          "Judul": "IL-2 Sturmovik",
+          "Release": "November 18, 2001",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/0/9370bb068a74c8c81a364fc7a4244318-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "65.",
+          "Judul": "FreeSpace 2",
+          "Release": "September 30, 1999",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/3/28edf758857984205ae5ad2aa0edeac0-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "66.",
+          "Judul": "Metal Gear Solid V: The Phantom Pain",
+          "Release": "September 1, 2015",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/308b6defa2a2ea0fa6ddd8a59e4aa69f-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "67.",
+          "Judul": "Tom Clancy's Splinter Cell",
+          "Release": "February 19, 2003",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/2a08ba78f40d57d58995a4eef384bbcd-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "68.",
+          "Judul": "Forza Horizon 5",
+          "Release": "November 9, 2021",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/a572facc24b6ef4a322eed6e2fe6392a-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "69.",
+          "Judul": "Kentucky Route Zero - Act III",
+          "Release": "May 6, 2014",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/b868aaf076b781319567ab421b7dcea3-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "70.",
+          "Judul": "Crysis",
+          "Release": "November 13, 2007",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/8/3c939b96b0aac4a8338e6e49e16fddcd-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "71.",
+          "Judul": "World of Warcraft: The Burning Crusade",
+          "Release": "January 16, 2007",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/0/80fe059db5aa8bca4d200f2f385e15b3-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "72.",
+          "Judul": "Tiger Woods PGA Tour 2005",
+          "Release": "September 20, 2004",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/0/55232607853540318e597a2ea2a38c99-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "73.",
+          "Judul": "The Longest Journey",
+          "Release": "November 16, 2000",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/b44be7322174200948fe9e637f5442f0-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "74.",
+          "Judul": "Tony Hawk's Pro Skater 2",
+          "Release": "October 25, 2000",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/56177305651e34a2e7d404f05701b853-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "75.",
+          "Judul": "Star Wars Jedi Knight: Dark Forces II",
+          "Release": "October 9, 1997",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/0a39b899979832d09ceb4a824d68532a-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "76.",
+          "Judul": "Batman: Arkham Asylum",
+          "Release": "September 15, 2009",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/8c0d025f0ad5d0f625717b6806ed0afc-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "77.",
+          "Judul": "Galactic Civilizations II: Dark Avatar",
+          "Release": "February 14, 2007",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/9/3b8103a58f6e6d78d742145bf443e665-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "78.",
+          "Judul": "The Operative: No One Lives Forever",
+          "Release": "November 11, 2000",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/1f7c2ccc2c4abbaba7e9d247ea9d75c2-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "79.",
+          "Judul": "Crusader Kings III",
+          "Release": "September 1, 2020",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/0/bf1475c161c6857e0c52670b80486e4c-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "80.",
+          "Judul": "Battlefield 2",
+          "Release": "June 21, 2005",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/d2f0e4e5cdb9eec66e1a8e5dcc7f9cf4-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "81.",
+          "Judul": "Street Fighter IV",
+          "Release": "July 1, 2009",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/320de58b94d10aaf7cd7999d2016b2a2-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "82.",
+          "Judul": "Fallout 3",
+          "Release": "October 28, 2008",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/3/238d54d1a52ed5516801b82897e4f79b-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "83.",
+          "Judul": "Batman: Arkham City",
+          "Release": "November 21, 2011",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/8ca786aa6ce79e3b0c30cdda2f3cb821-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "84.",
+          "Judul": "Fez",
+          "Release": "May 1, 2013",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/2201778f9d89d2154c018818155c1722-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "85.",
+          "Judul": "Planescape: Torment",
+          "Release": "December 14, 1999",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/a99c16e3950e1ba1b6312a0daccac6b9-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "86.",
+          "Judul": "Neverwinter Nights",
+          "Release": "June 16, 2002",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/ae233e55748d7d015acfa5e7a2dc68df-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "87.",
+          "Judul": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way",
+          "Release": "September 30, 2002",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/8bfb71297900bc0fa29e25f0ddc0f102-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "88.",
+          "Judul": "Dragon Age: Origins",
+          "Release": "November 3, 2009",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/9792a1d13ac952d86ca0bf645f5d4fca-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "89.",
+          "Judul": "Mark of the Ninja",
+          "Release": "October 16, 2012",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/465d91a6acb0742208924721a8e87cc3-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "90.",
+          "Judul": "Disco Elysium",
+          "Release": "October 15, 2019",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/259cfab379c2636758908c1812f4fcff-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "91.",
+          "Judul": "Dark Souls II",
+          "Release": "April 25, 2014",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/4/6247a9a855916a7a58ebee939ac5a0d5-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "92.",
+          "Judul": "Spelunky 2",
+          "Release": "September 29, 2020",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/2/a7c375ac03aea0543fca2f2a900eb5a9-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "93.",
+          "Judul": "Call of Duty",
+          "Release": "October 29, 2003",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/b1fb7d0529dc6a2ef9ab48be7054ecbf-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "94.",
+          "Judul": "Madden NFL 2004",
+          "Release": "August 12, 2003",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/1/518832e35051f33645df490ba36d1fa5-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "95.",
+          "Judul": "The Sims 2",
+          "Release": "September 14, 2004",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/3/9cd43b7e4504758adc435b40d27f1e80-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "96.",
+          "Judul": "Final Fantasy XIV: Shadowbringers",
+          "Release": "July 2, 2019",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/7/8830ae69544b05764fe2d5bc4d5a8d6a-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "97.",
+          "Judul": "World of Warcraft: Cataclysm",
+          "Release": "December 7, 2010",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/5b3de8802c0744cba2d423a9696e478a-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "98.",
+          "Judul": "World of Goo",
+          "Release": "October 12, 2008",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/5/a9e5ec3ba895d2dff7823ec82318f989-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "99.",
+          "Judul": "Factorio",
+          "Release": "August 14, 2020",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/6/a54f03031853fd0879c1dc2e02fc27c4-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "100.",
+          "Judul": "Spelunky",
+          "Release": "August 8, 2013",
+          "Waktu_scrapping": "18/03/2022 05:25:29",
+          "Image": "https://static.metacritic.com/images/products/games/0/041c0dbe5b3c490680c191f0b733e91e-98.jpg"
+     }
+]
